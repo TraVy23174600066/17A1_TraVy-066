@@ -1,7 +1,7 @@
 import numpy as np
 
 #  1
-with open('C:/laptrinhaaa/python learn on class/Python learn ver3/Btap/3.NumPy/baseball_2D.txt', 'r') as file:
+with open('baseball_2D.txt', 'r') as file:
     baseball = [eval(line.strip()) for line in file if line.strip()]
 
 

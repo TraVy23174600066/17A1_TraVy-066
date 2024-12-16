@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-euro12 = pd.read_csv('C:/laptrinhaaa/python learn on class/Python learn ver3/Btap/3.NumPy/euro2012.csv')
+euro12 = pd.read_csv('euro2012.csv')
 
 
 print("Bước 1 - Thông tin DataFrame:")
